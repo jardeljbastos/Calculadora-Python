@@ -1,0 +1,1 @@
+print("Aqui seguirei executando meu Projeto Python para obter uma calculadora. Aguardem!!!")
