@@ -1,4 +1,4 @@
-print("Aqui seguirei executando meu Projeto Python para obter uma calculadora. Aguardem!!!")
+#print("Aqui seguirei executando meu Projeto Python para obter uma calculadora. Aguardem!!!")
 operacao = input("""Inicie escolhendo a operação que deseja realizar!
 Soma [1]
 Subtração[2]
